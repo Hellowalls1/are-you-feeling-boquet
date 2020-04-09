@@ -32,35 +32,64 @@
                  "name": "Southwest Flowers",
                  "city": "Phoenix",
                  "state": "AZ",
-                 "address": "123 Cactus Way"
+                 "address": "123 Cactus Way",
+                 "distributorId": 1
              },
              {
                  "id": 2,
                  "name": "Northeast Flowers" ,
                  "city": "New York",
                  "state": "New York",
-                 "address": "321 Broadway"
+                 "address": "321 Broadway",
+                 "distributorId": 2
+
              },
              {
                  "id": 3,
                  "name": "Southern Flowers",
                  "city": "Atlanta",
                  "state": "Georgia",
-                 "address": "418 Clark St."
+                 "address": "418 Clark St.",
+                 "distributorId": 3
              },
              {
                  "id": 4,
                  "name": "PacNW Flowers" ,
                  "city": "Portland",
                  "state": "Oregon",
-                 "address": "5912 W. 5th St."
+                 "address": "5912 W. 5th St.",
+                 "distributorId": 2
              },
              {
                  "id": 5,
                  "name": "West Coast Flower Co.",
                  "city": "Los Angeles",
                  "state": "California",
-                 "address": "2323 Sunset Blvd."
+                 "address": "2323 Sunset Blvd.",
+                 "distributorId": 3
+             }
+         ],
+         "distributors": [
+             {
+                "id": 1,
+                "name": "Central Distrobution",
+                "city": "Chicago",
+                "state": "IL",
+                "address": "2424 Prime Ave."
+             },
+             {
+                "id": 2,
+                "name": "Western Logistics",
+                "city": "Denver",
+                "state": "CO",
+                "address": "1237 Mountain Way"
+             },
+             {
+                "id": 3,
+                "name": "Southern Processing",
+                "city": "Atlanta",
+                "state": "GA",
+                "address": "7887 Merril St."
              }
          ]
      }
