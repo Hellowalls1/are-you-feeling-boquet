@@ -14,5 +14,6 @@ getRetailers()
     .then(getDistributor)
     .then(getNurseries)
     .then(getDistributorNurseries)
+    .then(getNurseryFlowers)
     .then(RetailerList)
 
