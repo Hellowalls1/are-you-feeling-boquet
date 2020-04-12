@@ -2,28 +2,28 @@
     "flowers": [
         {
             "id": 1,
-            "flower": "rose" ,
-            "color":  "red"
+            "flower": "Rose" ,
+            "color":  "Red"
         },
         {
             "id":  2,
             "flower": "Day-Lily",
-            "color":  "green"
+            "color":  "Green"
         },
         {
             "id":  3,
             "flower": "Pansy",
-            "color":  "blue"
+            "color":  "Blue"
         },
         {
             "id":  4,
             "flower":  "Orchid",
-            "color":  "white"
+            "color":  "White"
         },
         {
             "id":  5,
             "flower": "Violet",
-            "color":  "purple"
+            "color":  "Purple"
         }
      ],
        "retailers": [
